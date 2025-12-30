@@ -1,3 +1,6 @@
+<img alt="Static Badge" src="https://img.shields.io/badge/github-repo-blue?logo=github"> <img alt="Static Badge" src="https://img.shields.io/badge/In_Progress-Azure Cloud-blue">
+
+
 ## ☁️ 100 Days of Azure Cloud Challenge
 ## 📌 Overview
 
