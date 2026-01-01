@@ -23,8 +23,8 @@ This repository is maintained as a public Azure cloud portfolio for recruiters, 
 | Day | Task | Status |
 |-----|------|--------|
 | Day 1 | Create SSH Key Pair for Azure Virtual Machine | ✅ Completed |
-| Day 2 | Create an Azure Virtual Machine | 🔄 In Progress |
-| Day 3 | Create VM using Azure CLI | ⏳ Planned |
+| Day 2 | Create an Azure Virtual Machine | ✅ Completed |
+| Day 3 | Create VM using Azure CLI | 🔄 In Progress |
 | Day 4 | Create a Virtual Network (VNet) in Azure | ⏳ |
 | Day 5 | Create a Virtual Network (IPv4) in Azure | ⏳ |
 | Day 6 | Create a Subnet in Azure Virtual Network | ⏳ |
